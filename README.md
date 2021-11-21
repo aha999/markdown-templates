@@ -1,5 +1,6 @@
 # Markdown Templates
 This is a personal oriented repo for help with improving Readme files on Github including various elements.
+Anyone is welcome to give ideas, add, improve elements in the [Issues](https://github.com/aha999/markdown-templates/issues).
 
 ## Linux
 
