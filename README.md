@@ -5,6 +5,7 @@ This is a personal oriented repo for help with improving Readme files on Github 
 
 - Give suggestions on what to add
 - Improve elements by posting in [Issues](https://github.com/aha999/markdown-templates/issues) and make a PR upon Issue discussion.
+- Donate to this project on Paypal [here](paypal.me/slovantes).
 
 ## Badges
 
