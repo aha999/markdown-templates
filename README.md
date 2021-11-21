@@ -1,8 +1,5 @@
-##
-
-
-## Android
-
+# Markdown Templates
+This is a personal oriented repo for help with improving Readme files on Github including various elements.
 
 ## Linux
 
