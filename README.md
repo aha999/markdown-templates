@@ -14,7 +14,7 @@ Badges can be generated on these platforms:
 
 Examples:
 
-![Android CI](https://github.com/fr3ts0n/AndrOBD/workflows/Android%20CI/badge.svg)
+[![Build Status](https://github.com/barbeau/gpstest/actions/workflows/android.yml/badge.svg)](https://github.com/barbeau/gpstest/actions/workflows/android.yml) 
 [![GitHub issues](https://img.shields.io/github/issues/fr3ts0n/AndrOBD?color=red)](https://github.com/fr3ts0n/AndrOBD/issues)
 [![Liberapay receiving](https://img.shields.io/liberapay/receives/AndrOBD?label=Liberapay)](https://liberapay.com/AndrOBD/donate/)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/AndrOBD?color=orange)](https://www.reddit.com/r/AndrOBD/)
