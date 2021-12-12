@@ -28,3 +28,9 @@ Software versions badge from https://repology.org/ for a SteamTinker project. Ge
 Example: 
 
 [![Packaging status](https://repology.org/badge/vertical-allrepos/steamtinkerlaunch.svg)](https://repology.org/project/steamtinkerlaunch/versions)
+
+# Projects
+
+![image](https://user-images.githubusercontent.com/50620416/145696347-ee785e61-4eca-420b-8d94-889f153ce71c.png)
+
+- Website for statistics: https://repobeats.axiom.co/
