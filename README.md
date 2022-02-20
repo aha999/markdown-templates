@@ -35,3 +35,8 @@ Example:
 ![image](https://user-images.githubusercontent.com/50620416/145696347-ee785e61-4eca-420b-8d94-889f153ce71c.png)
 
 - Website for statistics: https://repobeats.axiom.co/
+
+# Images
+
+- pasting images: 
+![Screenshot of functions](/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_02.png)
