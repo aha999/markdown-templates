@@ -38,6 +38,13 @@ Example:
 
 - Website for statistics: https://repobeats.axiom.co/
 
+# General
+
+<details>
+  <summary>Click to expand</summary>
+  Content
+</details>
+
 # Images
 
 - pasting images: 
