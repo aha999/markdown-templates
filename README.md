@@ -20,7 +20,7 @@ Examples:
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/AndrOBD?color=orange)](https://www.reddit.com/r/AndrOBD/)
 [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue)](https://t.me/joinchat/G60ltQv5CCEQ94BZ5yWQbg)
 [![GitHub license](https://img.shields.io/github/license/fr3ts0n/AndrOBD?color=lightgrey)](https://github.com/fr3ts0n/AndrOBD/blob/master/LICENSE)
-[![GitHub license](https://img.shields.io/github/release-date/popcorn-official/popcorn-desktop?labely)](https://github.com/popcorn-official/popcorn-desktop/releases/latest)
+[![Release date](https://img.shields.io/github/release-date/popcorn-official/popcorn-desktop?labely)](https://github.com/popcorn-official/popcorn-desktop/releases/latest)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/fr3ts0n/AndrOBD?label=latest%20version&sort=semver)](https://github.com/fr3ts0n/AndrOBD/releases)
 
 
