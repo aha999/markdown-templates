@@ -7,6 +7,10 @@ This is a personal oriented repo for help with improving Readme files on Github 
 - Improve this project by requesting features or reporting bugs in [Issues](https://github.com/aha999/markdown-templates/issues) section and make a PR upon Issue discussion.
 - Donate to this project on Paypal [here](https://paypal.me/slovantes).
 
+## Resources
+
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+
 ## Badges
 
 Badges can be generated on these platforms:
